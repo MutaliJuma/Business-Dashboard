@@ -1,7 +1,3 @@
-## Download
-Click below to download the Excel file:
-* [Download Business Tracker](BUSINESS%20FINANCE%20TRACKER%20AND%20BRAND%20ASSETS.xlsx)
-
 ## Screenshots
 ![Screenshot 1](jan.png)
 ![Screenshot 2](apr.png)
